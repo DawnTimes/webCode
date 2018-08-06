@@ -1,3 +1,4 @@
 #忽略该文件
-
+*.txt
 password.txt
+私人密码.txt
